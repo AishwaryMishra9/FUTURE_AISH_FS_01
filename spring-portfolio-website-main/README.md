@@ -2,8 +2,6 @@
 
 This is a personal portfolio website built using Spring Boot, Thymeleaf, MySQL, Spring Data JPA, Hibernate, Spring Boot validation, HTML, CSS, JavaScript, and Bootstrap.
 
-This project is not currently hosted. You can access a static version of the site (without the admin features) at: [chaurasia-aditya.github.io](https://chaurasia-aditya.github.io/)
-
 
 https://github.com/user-attachments/assets/bab07c1c-1187-4cc6-9d20-63d2e4269a59
 
