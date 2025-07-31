@@ -3,9 +3,6 @@
 This is a personal portfolio website built using Spring Boot, Thymeleaf, MySQL, Spring Data JPA, Hibernate, Spring Boot validation, HTML, CSS, JavaScript, and Bootstrap.
 
 
-https://github.com/user-attachments/assets/bab07c1c-1187-4cc6-9d20-63d2e4269a59
-
-
 ## Features
 
 - Responsive Design: The website is fully responsive and works on different devices.
